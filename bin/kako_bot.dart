@@ -3,7 +3,7 @@ import 'dart:io';
 
 import 'questions/time_questions.dart';
 
-void main() async {
+void main(){
   String kakoBot = 'KakoBOT:\n';
   var a = true;
   String usuario = '';
