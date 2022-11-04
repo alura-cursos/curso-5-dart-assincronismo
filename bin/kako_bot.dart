@@ -2,7 +2,7 @@
 import 'dart:io';
 
 import 'questions/time_questions.dart';
-import 'timing/waintg_time.dart';
+import 'timing/waiting_time.dart';
 
 void main() async{
   String kakoBot = 'KakoBOT:\n';
